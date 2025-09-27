@@ -1,10 +1,10 @@
-{
+﻿{
   "name": "comp3104",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \\"Warning: No tests created yet.\\""
+    "test": "echo \"Warning: No tests created yet.\""
   },
   "keywords": [],
   "author": "",
